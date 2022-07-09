@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "This is a test note",
-      "path": "This is a test note.md"
+      "basename": "Introduction Presentation",
+      "path": "Introduction Presentation.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "START HERE",
       "path": "START HERE.md"
+    },
+    {
+      "basename": "domain or ip",
+      "path": "-- templates/domain or ip.md"
+    },
+    {
+      "basename": "ancestry",
+      "path": "-- templates/ancestry.md"
+    },
+    {
+      "basename": "This is a test note",
+      "path": "This is a test note.md"
     },
     {
       "basename": "Username",
@@ -105,28 +121,12 @@
       "path": "examplecase/selectors/domains/iwa.temp.md"
     },
     {
-      "basename": "domain or ip",
-      "path": "-- templates/domain or ip.md"
-    },
-    {
       "basename": "person",
       "path": "-- templates/person.md"
     },
     {
-      "basename": "Introduction Presentation",
-      "path": "Introduction Presentation.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Search engine",
       "path": "Standard Operating Procedures/Search engine.md"
-    },
-    {
-      "basename": "pexels-pixabay-220453",
-      "path": "examplecase/media/pexels-pixabay-220453.jpg"
     },
     {
       "basename": "-- Course Tracking Doc",
