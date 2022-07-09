@@ -137,8 +137,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "72006adfbade2ad0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",

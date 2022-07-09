@@ -14,5 +14,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-tasks-plugin",
   "obsidian-map-view",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-git"
 ]
