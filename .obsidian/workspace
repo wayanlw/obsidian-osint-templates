@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "START HERE.md",
+            "file": "This is a test note.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "This is a test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "This is a test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "This is a test note.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "c018edbd54248172",
   "lastOpenFiles": [
+    "This is a test note.md",
     "START HERE.md",
     "Standard Operating Procedures/Username.md",
     "Standard Operating Procedures/URL.md",
@@ -163,7 +164,6 @@
     "Standard Operating Procedures/Persons name.md",
     "Standard Operating Procedures/People Search Engine.md",
     "Standard Operating Procedures/IP address.md",
-    "Standard Operating Procedures/Image analysis.md",
-    "Standard Operating Procedures/GPS coordinates.md"
+    "Standard Operating Procedures/Image analysis.md"
   ]
 }
